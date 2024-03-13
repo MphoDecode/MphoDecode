@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MphoDecode
-- 👀 I’m interested in Machine learning aand Data Sciences in Molecular and Cell Biology 
-- 🌱 I’m currently learning about Machine learning in health care 
+- 👀 I’m interested in Machine learning and Data Sciences in Molecular and Cell Biology 
+- 🌱 I’m currently learning about Machine learning in healthcare 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me setshedi.mk@gmail.com 
 - 😄 Pronouns: She/Her
